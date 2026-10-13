@@ -1,6 +1,6 @@
 # Website files
 
-Mirror of the files linked from [cristian-arcidiacono.com](https://sites.google.com/view/cristian-arcidiacono/research), served through GitHub Pages for readers who cannot open Dropbox links.
+Mirror of the files linked from [my website](https://sites.google.com/view/cristian-arcidiacono), served through GitHub Pages for readers who cannot open Dropbox links.
 
 | File | Link |
 |------|------|
